@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tvieweg.github.io
+title: Trevor Vieweg
+email: trevor.vieweg@gmail.com
+author: Trevor Vieweg
+description: My personal portfolio and blog. 
+paginate: 5
+google_analytics: 

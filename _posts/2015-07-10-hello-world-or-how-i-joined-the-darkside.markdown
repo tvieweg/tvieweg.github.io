@@ -11,4 +11,4 @@ Then I joined the real darkside, program and product management. It was (and con
 
 The more I thought of it, the more I wanted to create something I could use, preferably use often. Even better if it was daily. So, I finally opened Xcode, and started toying around. After toying around a bit, I decided to get serious. So I've spent the past six months starting down the road of iOS development, culminating in the Bloc bootcamp, which I'll complete this fall. 
 
-This is a log of my journey into the (until recently) mysterious world of code. 
+This is a log of my journey into the (until recently) mysterious world of code. It won't always be pretty, but I think that's a good sign. 

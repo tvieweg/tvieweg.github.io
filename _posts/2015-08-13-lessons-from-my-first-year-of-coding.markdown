@@ -25,12 +25,10 @@ The big lesson for me was to not be intimidated by the jargon, the philosophical
 
 Know A Little About A Lot (and A Lot About A Little)
 --------------------------------------------------------------------------
-
 In a similar vein, I’ve reminded myself several times that you can’t know everything. Know a little about a lot of things. Know a lot about a few things. Keep doing this over and over again. Eventually, you’ll know a lot about a lot of things. 
 
 Bang Your Head Against The Wall
 --------------------------------------------------
-
 Stack Overflow, Quora, and the internet in general are incredible tools to find any knowledge you may need. It’s even easier for software. I’ve found only a handful of issues over the past year that I couldn’t fix with a 30 minute hunt on the internet. 
 
 But I want to advocate for something very different when you first encounter problems, particularly if you think they are fundamental to your app: Bang your head against the wall. Spend a couple hours on your own digging through the Apple reference docs and code base trying to solve your issue. Try a few things. Break your app. Try a few more things. Break your app again. 
@@ -39,7 +37,6 @@ These hours have in the long run provided me with a lot more learning. They shar
 
 Embrace Your Ignorance
 ------------------------------------
-
 After those couple hours I recommend above, stop being so hard on yourself. Resist the boiling frustration that comes up, saying “you’ll never be good at this, you should have the answer!” 
 
 You are new at this. It should be hard. You are not required to know everything. Go find the answer from people more knowledgeable. Embrace your ignorance. 

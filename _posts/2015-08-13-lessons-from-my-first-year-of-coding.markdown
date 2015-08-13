@@ -23,13 +23,16 @@ Stop Being Intimidated
 Software, and sometimes the people who develop it, can be intimidating. I struggled a lot with the jargon of object oriented programming, and the language of Software. I still struggle with it. I find writing about it to be helpful, as it forces you to really breakdown the meaning of a class, method, etc.  
 The big lesson for me was to not be intimidated by the jargon, the philosophical debates on spaces vs. tabs, the sweeping decrees about the best and ways to handle certain problems faced when coding. None of this is important to learning to code, or creating things for that matter. Focus first on creating things. Learn something every time you add a new feature. Don't worry if it's messy. You'll get better.
 
-Know A Little About A Lot, and A Lot About A Little
---------------------------------------------------------------------------
+Know A Little About A Lot 
+-------------------------------------
+
+###(and A Lot About A Little)
 
 In a similar vein, I’ve reminded myself several times that you can’t know everything. Know a little about a lot of things. Know a lot about a few things. Keep doing this over and over again. Eventually, you’ll know a lot about a lot of things. 
 
-Bang Your Head Against The Wall (It’s Good for You)
------------------------------------------------------------------------------
+Bang Your Head Against The Wall
+--------------------------------------------------
+### (It’s Good for You)
 
 Stack Overflow, Quora, and the internet in general are incredible tools to find any knowledge you may need. It’s even easier for software. I’ve found only a handful of issues over the past year that I couldn’t fix with a 30 minute hunt on the internet. 
 

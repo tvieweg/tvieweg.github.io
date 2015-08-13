@@ -22,25 +22,35 @@ Stop Being Intimidated
 
 Software, and sometimes the people who develop it, can be intimidating. I struggled a lot with the jargon of object oriented programming, and the language of Software. I still struggle with it. I've never been huge on jargon and subscribe to the [say it simply](http://xkcd.com/1133/) mentality. Sometimes the jargon is useful, but when you're getting started, I argue that it gets in the way. Do yourself a favor and describe what's happening in your code in any language you can. Just focus on what's actually happening. Learn the jargon after that. 
 
-The big lesson for me was to not be intimidated by the jargon, the philosophical debates on spaces vs. tabs, the sweeping decrees about the best and ways to handle certain problems faced when coding. None of this is important to learning to code, or creating things for that matter. Focus first on creating things. Learn something every time you add a new feature. Don't worry if it's messy. You'll get better.
+Don't be intimidated by the jargon, the philosophical debates on spaces vs. tabs, the sweeping decrees about the best and ways to handle certain problems faced when coding. None of this is important to learning to code, or creating things for that matter. Focus first on creating things. Learn something every time you add a new feature, no matter how minor. Don't worry if it's messy. You'll get better.
 
 Know A Little About A Lot (and A Lot About A Little)
 --------------------------------------------------------------------------
-In a similar vein, I’ve reminded myself several times that you can’t know everything. Know a little about a lot of things. Know a lot about a few things. Keep doing this over and over again. Eventually, you’ll know a lot about a lot of things. 
+In a similar vein, I’ve reminded myself several times that you can’t know everything. You just can't. It doesn't mean you can't try, but you'll have to move forward with something (a lot) less than all the knowledge in the world about software. Rather than drilling down too far on any one topic, I'd suggest knowing a little about a lot of things to start out. Get yourself to a point where you know a little bit about all of the most common components of whatever platform you're developing on. Along the way, if you find something you really like, learn about it in depth (Know a lot about a few things.) Just be sure not to go too far down a rabbit hole to start. Pop up and keep gathering broad knowledge first. It'll help you keep progressing and gives you a foundation to come back to. 
+
+This is not a one time process. Keep doing this over and over again, learning a little bit about a lot of things and learning a lot about a few things during each project. Eventually, you’ll know a lot about a lot of things. 
 
 Bang Your Head Against The Wall
 --------------------------------------------------
-Stack Overflow, Quora, and the internet in general are incredible tools to find any knowledge you may need. It’s even easier for software. I’ve found only a handful of issues over the past year that I couldn’t fix with a 30 minute hunt on the internet. 
+Stack Overflow, Quora, and the internet in general are incredible tools to find any knowledge you may need. I’ve found only a handful of issues over the past year that I couldn’t fix with a 30 minute hunt on the internet. Being part of the last generation that can remember a time before the internet, this type of easy information still blows me away. 
 
-But I want to advocate for something very different when you first encounter problems, particularly if you think they are fundamental to your app: Bang your head against the wall. Spend a couple hours on your own digging through the Apple reference docs and code base trying to solve your issue. Try a few things. Break your app. Try a few more things. Break your app again. 
+But I want to advocate for something very different when you first encounter problems, particularly if you think they are fundamental to your app: Bang your head against the wall. Spend a couple hours on your own digging through the Apple reference docs and code base trying to solve your issue. Try a few things. Break your app. Write down some notes. Try a few more things. Break your app again. Get a little frustrated, (but not too frustrated, see my next piece of advice.) 
 
-These hours have in the long run provided me with a lot more learning. They sharpen your problem solving skills, and make you a better thinker. I remember the lessons of these issues for much longer than the issues I fixed with a quick google search. They also help prepare me for the inevitable times while programming that I will get stuck, and there will be no Stack Overflow answer to save me. I used to loathe these times as a programmer, but now I cherish them. 
+For me, getting stuck for a couple hours is the right amount of time. These hours have in the long run provided me with a lot more learning. Several times I've surprised myself and solved the problem without going to outside sources for help. Even when I haven't, I found that I learned more (and retained more) by really thinking about the issue for a while. 
+
+Getting stuck will sharpen your problem solving skills, and make you a better thinker. They also help you prepare for the inevitable times as a developer that you'll get stuck on tough issues, and there may be no Stack Overflow answer to save me. I used to loathe these times as a programmer, but now I cherish them. The best learning happens during these times. 
 
 Embrace Your Ignorance
 ------------------------------------
-After those couple hours I recommend above, stop being so hard on yourself. Resist the boiling frustration that comes up, saying “you’ll never be good at this, you should have the answer!” 
+After those couple hours of banging your head against the wall like I recommend above, stop being so hard on yourself! Resist the boiling frustration that comes up, saying “you’ll never be good at this, you should have the answer!” 
 
 You are new at this. It should be hard. You are not required to know everything. Go find the answer from people more knowledgeable. Embrace your ignorance. 
 
+Further, don't try to pretend that you know everything when you talk to fellow developers. Be honest about your skills, and ask good questions. This is far more impressive and productive than pretending that you have an answer for everything. Learn to say "I don't know" when people ask you tough questions about software. Then go try to find the answer. 
+
 Just Try It
 ---------------
+
+I came from a mechanical engineering background, which meant I worked almost exclusively with hardware. This meant if I screwed something up in my design, there was a big cost to buy new parts (and wait for them to arrive). 
+
+Software has no such penalties, which is an incredibly liberating and powerful feature. Use it! Don't be afraid to break your code. You should be doing so on a regular basis. Try all sorts of things. See what it does. The worst thing that happens is that you undo your changes and try something else. No penalty whatsoever! So get out there and start writing code. It will break. At first you'll have no idea why. But you'll get better, and eventually write less buggy code, and learn to catch bugs faster. The sooner you start trying things, the sooner you'll get to this point. 

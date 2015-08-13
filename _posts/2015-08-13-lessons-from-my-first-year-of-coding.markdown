@@ -32,7 +32,7 @@ In a similar vein, I’ve reminded myself several times that you can’t know ev
 
 Bang Your Head Against The Wall
 --------------------------------------------------
-### (It’s Good for You)
+###(It’s Good for You)
 
 Stack Overflow, Quora, and the internet in general are incredible tools to find any knowledge you may need. It’s even easier for software. I’ve found only a handful of issues over the past year that I couldn’t fix with a 30 minute hunt on the internet. 
 

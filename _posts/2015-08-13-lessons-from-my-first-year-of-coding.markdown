@@ -18,7 +18,7 @@ Combing Stack Overflow and other sites, I slowly realized everyone has some gap 
 So, with a long introduction, here are my takeaways from my first year of coding: 
 
 Stop Being Intimidated
-====================
+---------------------------------
 
 Software, and sometimes the people who develop it, can be intimidating. I struggled a lot with the jargon of object oriented programming, and the language of Software. I still struggle with it. I find writing about it to be helpful, as it forces you to really breakdown the meaning of a class, method, etc.  
 The big lesson for me was to not be intimidated by the jargon, the philosophical debates on spaces vs. tabs, the sweeping decrees about the best and ways to handle certain problems faced when coding. None of this is important to learning to code, or creating things for that matter. Focus first on creating things. Learn something every time you add a new feature. Don't worry if it's messy. You'll get better.

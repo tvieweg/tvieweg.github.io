@@ -3,6 +3,8 @@ published: true
 title: Better Late than Never. 
 layout: post
 ---
+By almost any standard, especially software, I am late to the game. 
+
 I have to confess. I was scared of code. When I first started looking into a career in the technical world, code looked interesting, and exciting. Then I took my first Java course. The instructor required us to write code using only text editors. I got frustrated, confused, and annoyed. I finished my class and vowed to stay away from code. 
 
 For ten years, I kept to that promise. I worked in the satellite communications and electronics manufacturing world, working mostly in hardware. Software? That magical creature that made the lights work on my satellite terminals? I knew the big picture, but nothing more. Even as I worked as a systems engineer, I worked with code in little neat packages I could move around block diagrams. I spent a total of maybe 8 hours on a command line in 8 years of work as a technical lead. 

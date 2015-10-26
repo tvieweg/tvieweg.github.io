@@ -13,4 +13,4 @@ Finally, I wanted to give the user the ability to save POIs to come back to them
 
 Overall I was pretty happy with this for my first project. You can find Muttro on the [iTunes Store](https://itunes.apple.com/us/app/id1014180036?mt=8), and take a look at the source code [here](https://github.com/tvieweg/Muttro/).
 
-<img src="https://github.com/tvieweg/tvieweg.github.io/blob/master/Muttro.jpg" alt="Muttro" width="300">
+<img src=https://github.com/tvieweg/tvieweg.github.io/blob/master/Muttro.jpg?raw=true" alt="Muttro" width="300">

@@ -3,6 +3,9 @@ published: true
 title: App Design - Muttro
 layout: post
 ---
+
+<img src="https://github.com/tvieweg/tvieweg.github.io/blob/master/post_images/Muttro.jpg?raw=true" alt="Muttro" width="800">
+
 Muttro was my first project after the basics section of the Bloc bootcamp. I had a new 10 week old puppy and suddenly found myself constantly searching for dog attractions. I decided to build an app dedicated to searching for all things dog related. 
 
 Quickly I realized while using Apple Maps that the search capability just wasn't up to snuff with what users typically expect when searching for points of interest (POIs). To solve this, I used Yelp's API to power all searches made by the user, whether by category or by specific word search. This turned out to provide some benefits not just in terms of search results but also tracking categories. 
@@ -13,4 +16,3 @@ Finally, I wanted to give the user the ability to save POIs to come back to them
 
 Overall I was pretty happy with this for my first project. You can find Muttro on the [iTunes Store](https://itunes.apple.com/us/app/id1014180036?mt=8), and take a look at the source code [here](https://github.com/tvieweg/Muttro/).
 
-<img src="https://github.com/tvieweg/tvieweg.github.io/blob/master/post_images/Muttro.jpg?raw=true" alt="Muttro" width="800">
